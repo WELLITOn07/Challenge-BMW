@@ -34,7 +34,7 @@ header {
     margin: auto;
     background-image: linear-gradient(to top, #13315C, #0b2545);
     border-radius: 10px 10px 0px 0px;
-    box-shadow: inset 0px 0px 10px black;
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.452);
 }
 header img {
     display: block;
@@ -120,7 +120,7 @@ main article#article-principal  a:hover {
 }
 main div.imagens {
     border-radius: 0px 0px 0px 0px;
-    box-shadow: inset 0px 0px 20px black;
+    box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.473);
     max-width: 1204px;
     margin: auto;
     display: flex; 
@@ -140,7 +140,7 @@ main article.fotos {
     margin-top: 10px;
     margin-bottom: 10px;
     background-color: #13315C;
-    border: 2px solid #c0c6ce;
+    border: 2px solid #c0c6ce98;
 }
 main article.fotos h2 {
     padding: 10px;
